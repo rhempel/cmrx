@@ -1,0 +1,13 @@
+var searchData=
+[
+  ['old_5fhost_5fprocess_0',['old_host_process',['../structOS__scheduling__context__t.html#aaf7a388185d2c43369ea6a4406bbc328',1,'OS_scheduling_context_t']]],
+  ['old_5fparent_5fprocess_1',['old_parent_process',['../structOS__scheduling__context__t.html#aa6dc648f2190e10113c57f41de97e2f4',1,'OS_scheduling_context_t']]],
+  ['old_5ftask_2',['old_task',['../structOS__scheduling__context__t.html#a5f197ecdce8f4f78bf49b35fc4af3073',1,'OS_scheduling_context_t']]],
+  ['os_5fprocess_5fdefinitions_3',['os_process_definitions',['../group__arch__linux__impl.html#ga8bf3aeec7102f453eb9e9671d13beefd',1,'static.c']]],
+  ['os_5fprocesses_4',['os_processes',['../group__os__kernel.html#ga92c7c87a5b690240597294d232980842',1,'os_processes:&#160;sched.c'],['../group__os__sched.html#ga92c7c87a5b690240597294d232980842',1,'os_processes:&#160;sched.c']]],
+  ['os_5fstacks_5',['os_stacks',['../group__os__sched.html#gaea74e023a260529e36ff7609c8a53555',1,'os_stacks:&#160;sched.c'],['../group__os__sched.html#gaea74e023a260529e36ff7609c8a53555',1,'os_stacks:&#160;sched.c'],['../group__os__kernel.html#gaea74e023a260529e36ff7609c8a53555',1,'os_stacks:&#160;sched.c'],['../group__os__sched.html#gaea74e023a260529e36ff7609c8a53555',1,'os_stacks:&#160;sched.c']]],
+  ['os_5fthread_5fdefinitions_6',['os_thread_definitions',['../group__arch__linux__impl.html#ga72adc2af4b9efc69ab8b0439d311bc1e',1,'static.c']]],
+  ['os_5fthreads_7',['os_threads',['../group__os__kernel.html#ga5bcb4dcf2afcf71f716d8dc85b18134d',1,'os_threads:&#160;sched.c'],['../group__os__sched.html#ga5bcb4dcf2afcf71f716d8dc85b18134d',1,'os_threads:&#160;sched.c']]],
+  ['outcome_8',['outcome',['../structsyscall__dispatch__t.html#a99901041b52cd5e3dd55fb9ea609deb5',1,'syscall_dispatch_t']]],
+  ['owner_9',['owner',['../structfutex__t.html#a814958656e7c88124744564d9f8c0864',1,'futex_t']]]
+];
